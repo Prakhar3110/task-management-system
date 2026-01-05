@@ -1,4 +1,4 @@
 class Task:
-    def __init__(self,id,name):
+    def __init__(self,id,title):
         self.id=id
-        self.title=name
+        self.title=title 
