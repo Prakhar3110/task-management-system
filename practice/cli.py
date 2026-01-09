@@ -1,7 +1,7 @@
 
 ############ code for CLI/API
 import task_manager
-
+import TaskRepositoryInterface
 def print_cmds():
     print('1. Add task\n' \
     '2. List tasks\n' \
